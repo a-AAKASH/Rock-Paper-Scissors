@@ -4,7 +4,7 @@
 
 ## Milestone 1
 
- 
+- Setting up the environments.
   
 ## Milestone 2
 
@@ -21,7 +21,7 @@
 
 - Created a manual Rock Paper Scissors game i.e. without the camera and taking the input from the user and comparing it with random computer selection. The code is in manual_rps.py
 
-> ![alt text] (http://url/to/manual_rps_ss)
+> <img src="manual_rps_ss.png" alt="Alt text" title="Manual Rock Paper Scissors console snap">
 
 ## Conclusions
 
