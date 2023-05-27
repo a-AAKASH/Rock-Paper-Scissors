@@ -4,39 +4,24 @@
 
 ## Milestone 1
 
-- Created an image project model for the four different classes - Rock, Paper, Scissors and Nothing. This was done via Teachable-Machine (https://teachablemachine.withgoogle.com/) 
-
-- Teachable Machine is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone using it's interactive web GUI interface.  
+ 
   
-```python
-"""Insert your code here"""
-```
-
-> Insert an image/screenshot of what you have built so far here.
-
 ## Milestone 2
 
-- Does what you have built in this milestone connect to the previous one? If so explain how. What technologies are used? Why have you used them? Have you run any commands in the terminal? If so insert them using backticks (To get syntax highlighting for code snippets add the language after the first backticks).
+- Created an image project model for the four different classes - Rock, Paper, Scissors and Nothing. This was done via Teachable-Machine (https://teachablemachine.withgoogle.com/) 
 
-- Example below:
+- Teachable Machine is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone using it's interactive web GUI interface. 
 
-```bash
-/bin/kafka-topics.sh --list --zookeeper 127.0.0.1:2181
-```
 
-- The above command is used to check whether the topic has been created successfully, once confirmed the API script is edited to send data to the created kafka topic. The docker container has an attached volume which allows editing of files to persist on the container. The result of this is below:
+## Milestone 3
 
-```python
-"""Insert your code here"""
-```
+- Installed dependencies and virtual environments for the program. 
 
-> Insert screenshot of what you have built working.
+## Milestone 4
 
-## Milestone n
+- Created a manual Rock Paper Scissors game i.e. without the camera and taking the input from the user and comparing it with random computer selection. The code is in manual_rps.py
 
-- Continue this process for every milestone, making sure to display clear understanding of each task and the concepts behind them as well as understanding of the technologies used.
-
-- Also don't forget to include code snippets and screenshots of the system you are building, it gives proof as well as it being an easy way to evidence your experience!
+> ![alt text] (http://url/to/manual_rps_ss)
 
 ## Conclusions
 
